@@ -1,0 +1,1341 @@
+<site version="3.0"><css/><components/><page id="p128390" pageindex="0" name="index" pp="1" cp="1"><body backgroundcolor="#CCFFCC" bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component type="3" id="image1" zorder="0" filename="image270593" left="0" top="0" width="289" height="210" originwidth="295" originheight="210" src="WSB://images\1.jpg" previewfile="WSB://images\1.jpg" thumbname="thumb7471875" resamplename="img7471890" exportfilename="images/1.jpg" fp="1" lp="1"/><Component type="2" id="text1" zorder="1" filename="text286656" left="290" top="0" width="450" height="106" html="Double click to edit text" bgcolor="#33CCCC" fp="1" lp="1" backup="1"/><Component type="2" id="text2" zorder="2" filename="text292078" left="289" top="107" width="453" height="105" html="Double click to edit text" bgcolor="#808080" fp="1" lp="1" backup="1"/><Component type="2" id="text3" zorder="3" filename="text360109" left="0" top="212" width="224" height="657" html="Double click to edit text" bgcolor="#CCFFFF" fp="1" lp="1" backup="1"/><Component type="2" id="text4" zorder="4" filename="text403921" left="243" top="230" width="595" height="653" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Engravers MT" style="font-size:16px;"&gt;Welcome to veerachai court, chiang mai&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Engravers MT" class="ws12"&gt;Welcome to veerachai court, chiang mai&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrpAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgxFbmdyYXZlcnMgTVQEU2l6ZQIMAAAtOSAyIDAgMCAyIDAgMg0KcnZz
+DQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5h
+bWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnMLAARUYWJzDgAAAQlTdHls
+ZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQHT3B0aW9ucwsABFRhYnMOAAAB
+CVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBhb1JlYWRPbmx5EXJ2cGFvU3R5
+bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4AAAAtOSAyIDAgMCAyIDAgNA0K
+cnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KV2VsY29tZSB0byB2ZWVyYWNoYWkgY291cnQsIGNoaWFu
+ZyBtYWkNCg==
+</rvf></Component><Component type="2" id="text5" zorder="5" filename="text508609" left="491" top="109" width="252" height="99" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;Veerachai Court, Chiang Mai&lt;/div&gt;
+&lt;div&gt;19 Thapae Rd., Soi 2, Muang, Chiang Mai 50300&lt;/div&gt;
+&lt;div&gt;Tel.+66 (0) 5325 1047 to 54 Fax.+66 (0) 5325 2402&lt;/div&gt;
+&lt;div&gt;e-mail : &lt;font color="#3366FF"&gt;info@veerachaicourt.com&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;Veerachai Court, Chiang Mai&lt;/div&gt;
+&lt;div&gt;19 Thapae Rd., Soi 2, Muang, Chiang Mai 50300&lt;/div&gt;
+&lt;div&gt;Tel.+66 (0) 5325 1047 to 54 Fax.+66 (0) 5325 2402&lt;/div&gt;
+&lt;div&gt;e-mail : &lt;font color="#3366FF"&gt;info@veerachaicourt.com&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrmAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbAVDb2xvcgQzZv8AAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQoH
+AQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUG
+CENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5h
+bWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQHT3B0aW9ucwsABFRhYnMOAAABCVN0
+eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQ
+cm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZz
+DQoCAAAADgAwIDQgMCAwIDAgMA0KVmVlcmFjaGFpIENvdXJ0LCBDaGlhbmcgTWFpDQoxOSBUaGFw
+YWUgUmQuLCBTb2kgMiwgTXVhbmcsIENoaWFuZyBNYWkgNTAzMDANClRlbC4rNjYgKDApIDUzMjUg
+MTA0NyB0byA1NCBGYXguKzY2ICgwKSA1MzI1IDI0MDINCmUtbWFpbCA6IA0KMyAxIC0xIDEgMCAw
+DQppbmZvQHZlZXJhY2hhaWNvdXJ0LmNvbQ0KMCAyIDAgMCAwIDANCiANCiANCg==
+</rvf></Component><Component type="2" id="text6" zorder="6" filename="text609875" left="529" top="10" width="204" height="65" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=right&gt;&lt;font face="Engravers MT" style="font-size:16px;"&gt;VEERACHAI COURT&lt;/font&gt;&lt;/div&gt;
+&lt;div align=right&gt;&lt;font style="font-size:16px;"&gt;Chiang Mai&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=right&gt;&lt;font face="Engravers MT" class="ws12"&gt;VEERACHAI COURT&lt;/font&gt;&lt;/div&gt;
+&lt;div align=right&gt;&lt;font class="ws12"&gt;Chiang Mai&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQojAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAgwAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0
+YW5kYXJkCAhGb250TmFtZQYMRW5ncmF2ZXJzIE1UBFNpemUCDAAALTkgMiAwIDAgMiAwIDINCnJ2
+cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVO
+YW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAEJU3R5
+bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAA
+AQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25seRFydnBhb1N0
+eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAAALTkgMiAwIDAgMiAwIDQN
+CnJ2cw0KAgAAAA4ANCAxIDIgMCAwIDANClZFRVJBQ0hBSSBDT1VSVA0KMyAxIDIgMCAwIDANCkNo
+aWFuZyBNYWkNCg==
+</rvf></Component><Component type="2" id="text7" zorder="7" filename="text781312" left="250" top="273" width="898" height="114" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:19px;"&gt;Having operated since 1988, Veerachai Court offers an ideal accommodation in the form of an apartment in Chiang Mai with low room rates, which vary according to the season and the duration of your stay. Whether it is a one-day, short- or long-term stay, a reasonable room rate will be tailor-made just for you.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws14"&gt;Having operated since 1988, Veerachai Court offers an ideal accommodation in the form of an apartment in Chiang Mai with low room rates, which vary according to the season and the duration of your stay. Whether it is a one-day, short- or long-term stay, a reasonable room rate will be tailor-made just for you.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQriAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAg4AAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAO
+AQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2Vu
+dGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYL
+UmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVO
+YW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3Rl
+Y3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIA
+AAAOADMgMSAwIDAgMCAwDQpIYXZpbmcgb3BlcmF0ZWQgc2luY2UgMTk4OCwgVmVlcmFjaGFpIENv
+dXJ0IG9mZmVycyBhbiBpZGVhbCBhY2NvbW1vZGF0aW9uIGluIHRoZSBmb3JtIG9mIGFuIGFwYXJ0
+bWVudCBpbiBDaGlhbmcgTWFpIHdpdGggbG93IHJvb20gcmF0ZXMsIHdoaWNoIHZhcnkgYWNjb3Jk
+aW5nIHRvIHRoZSBzZWFzb24gYW5kIHRoZSBkdXJhdGlvbiBvZiB5b3VyIHN0YXkuIFdoZXRoZXIg
+aXQgaXMgYSBvbmUtZGF5LCBzaG9ydC0gb3IgbG9uZy10ZXJtIHN0YXksIGEgcmVhc29uYWJsZSBy
+b29tIHJhdGUgd2lsbCBiZSB0YWlsb3ItbWFkZSBqdXN0IGZvciB5b3UuDQo=
+</rvf></Component><Component type="2" id="text8" zorder="8" filename="text1006500" left="251" top="358" width="911" height="110" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:19px;"&gt;Located in the central downtown of Chiang Mai with an easy access to all major attractions, including business, nightlife, entertainment and shopping centres, yet in a peaceful atmosphere, Veerachai Court is a perfect base for business people and tourists alike.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws14"&gt;Located in the central downtown of Chiang Mai with an easy access to all major attractions, including business, nightlife, entertainment and shopping centres, yet in a peaceful atmosphere, Veerachai Court is a perfect base for business people and tourists alike.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQriAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAg4AAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAO
+AQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2Vu
+dGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYL
+UmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVO
+YW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3Rl
+Y3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIA
+AAAOADMgMyAwIDAgMCAwDQpMb2NhdGVkIGluIHRoZSBjZW50cmFsIGRvd250b3duIG9mIENoaWFu
+ZyBNYWkgd2l0aCBhbiBlYXN5IGFjY2VzcyB0byBhbGwgbWFqb3IgYXR0cmFjdGlvbnMsIGluY2x1
+ZGluZyBidXNpbmVzcywgbmlnaHRsaWZlLCBlbnRlcnRhaW5tZW50IGFuZCBzaG9wcGluZyBjZW50
+cmVzLCB5ZXQgaW4gYSBwZWFjZWZ1bCBhdG1vc3BoZXJlLCBWZWVyYWNoYWkgQ291cnQgaXMgYSBw
+ZXJmZWN0IGJhc2UgZm9yIGJ1c2luZXNzIHBlb3BsZSBhbmQgdG91cmlzdHMgYWxpa2UuDQoNCg0K
+</rvf></Component><Component type="3" id="image2" zorder="9" filename="image1091734" left="260" top="618" width="185" height="247" originwidth="185" originheight="247" src="WSB://images\2.jpg" previewfile="WSB://images\2.jpg" thumbname="thumb7471921" resamplename="img7471937" exportfilename="images/2.jpg" fp="1" lp="1"/><Component type="3" id="image3" zorder="10" filename="image1101187" left="469" top="711" width="178" height="121" originwidth="178" originheight="121" src="WSB://images\4index02.jpg" previewfile="WSB://images\4index02.jpg" thumbname="thumb7471968" resamplename="img7471984" exportfilename="images/4index02.jpg" fp="1" lp="1"/><Component type="3" id="image4" zorder="11" filename="image1111859" left="263" top="469" width="176" height="103" originwidth="176" originheight="103" src="WSB://images\4index03.jpg" previewfile="WSB://images\4index03.jpg" thumbname="thumb7472015" resamplename="img7472031" exportfilename="images/4index03.jpg" fp="1" lp="1"/><Component type="3" id="image5" zorder="12" filename="image1119375" left="511" top="468" width="101" height="202" originwidth="72" originheight="102" src="WSB://images\4index04.jpg" previewfile="WSB://images\4index04.jpg" thumbname="thumb7472062" resamplename="img7472078" exportfilename="images/4index04.jpg" fp="1" lp="1"/><Component type="2" id="text9" zorder="13" filename="text1199828" left="662" top="479" width="567" height="174" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:19px;"&gt;&amp;nbsp; Come and stay with us, you will enjoy the advantages of our location, excellent rooms with full facilities and friendly services, just like our returning guests.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws14"&gt;&amp;nbsp; Come and stay with us, you will enjoy the advantages of our location, excellent rooms with full facilities and friendly services, just like our returning guests.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQriAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAg4AAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAO
+AQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2Vu
+dGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYL
+UmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVO
+YW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3Rl
+Y3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIA
+AAAOADMgMSAwIDAgMCAwDQogIENvbWUgYW5kIHN0YXkgd2l0aCB1cywgeW91IHdpbGwgZW5qb3kg
+dGhlIGFkdmFudGFnZXMgb2Ygb3VyIGxvY2F0aW9uLCBleGNlbGxlbnQgcm9vbXMgd2l0aCBmdWxs
+IGZhY2lsaXRpZXMgYW5kIGZyaWVuZGx5IHNlcnZpY2VzLCBqdXN0IGxpa2Ugb3VyIHJldHVybmlu
+ZyBndWVzdHMuDQo=
+</rvf></Component><Component type="5" id="nav1" zorder="14" filename="nav1429328" fontname="Tahoma" fontsize="8" fontcolor="8421504" fontstyle="1" activecolor="536870911" navspace="7" navstyle="1" hormargin="0" vermargin="0" textalign="1" navwidth="180" navheight="31" normalimage="WSB://images\rect02in.gif" mouseoverimage="WSB://images\rect02over.gif" mouseoversound="" navtext0="HOME" navurl0="page://p128390" navtarget0="" navstate0="0" navtext1="LOCATION" navurl1="page://p1251531" navtarget1="" navstate1="0" navtext2="GUEST ROOMS" navurl2="page://p1256796" navtarget2="" navstate2="0" navtext3="FACILITIES &amp; SERVICES" navurl3="page://p1257609" navtarget3="" navstate3="0" navtext4="RESERVATION FORM" navurl4="page://p1258359" navtarget4="" navstate4="0" navtext5="CONTACT US" navurl5="page://p1258890" navtarget5="" navstate5="0" navcount="6" width="180" height="228" preview="C:\Users\COM-1\AppData\Local\Temp\Web Page Maker\doc1AVL6\NavHM2ST" left="18" top="291" fp="1" exportfilename="images/nav1429328" exportsound="" lp="1"/></body></page><page id="p1251531" pageindex="1" name="page2" pp="1" cp="1"><body backgroundcolor="#CCFFFF" bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component type="2" id="text1" zorder="0" filename="text1616015" left="4" top="9" width="363" height="52" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:19px;"&gt;&lt;B&gt;LOCATION&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws14"&gt;&lt;B&gt;LOCATION&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrxAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAg4FU3R5bGULBmZzQm9sZAAAAC05IDIgMCAwIDIg
+MCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAAB
+CVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMO
+AAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAE
+VGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkR
+cnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAw
+IDIgMCA0DQpydnMNCgIAAAAOADMgMSAwIDAgMCAwDQpMT0NBVElPTg0K
+</rvf></Component><Component type="2" id="text2" zorder="1" filename="text1681171" left="12" top="58" width="815" height="187" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:19px;"&gt;&amp;nbsp;&amp;nbsp; Located in the heart of Chiang Mai in a peaceful location, Veerachai Court is only a short walking distance to Thapae Road with a convenient access to all kinds of local transportation to anywhere in the district area. Veerachai Court staffs are willing to serve you with a warm welcome, friendliness and honesty.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws14"&gt;&amp;nbsp;&amp;nbsp; Located in the heart of Chiang Mai in a peaceful location, Veerachai Court is only a short walking distance to Thapae Road with a convenient access to all kinds of local transportation to anywhere in the district area. Veerachai Court staffs are willing to serve you with a warm welcome, friendliness and honesty.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQriAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAg4AAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAO
+AQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2Vu
+dGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYL
+UmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVO
+YW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3Rl
+Y3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIA
+AAAOADMgMSAwIDAgMCAwDQogICBMb2NhdGVkIGluIHRoZSBoZWFydCBvZiBDaGlhbmcgTWFpIGlu
+IGEgcGVhY2VmdWwgbG9jYXRpb24sIFZlZXJhY2hhaSBDb3VydCBpcyBvbmx5IGEgc2hvcnQgd2Fs
+a2luZyBkaXN0YW5jZSB0byBUaGFwYWUgUm9hZCB3aXRoIGEgY29udmVuaWVudCBhY2Nlc3MgdG8g
+YWxsIGtpbmRzIG9mIGxvY2FsIHRyYW5zcG9ydGF0aW9uIHRvIGFueXdoZXJlIGluIHRoZSBkaXN0
+cmljdCBhcmVhLiBWZWVyYWNoYWkgQ291cnQgc3RhZmZzIGFyZSB3aWxsaW5nIHRvIHNlcnZlIHlv
+dSB3aXRoIGEgd2FybSB3ZWxjb21lLCBmcmllbmRsaW5lc3MgYW5kIGhvbmVzdHkuDQo=
+</rvf></Component><Component type="2" id="text3" zorder="2" filename="text1726984" left="17" top="169" width="471" height="119" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:19px;"&gt;&lt;B&gt;Neighbouring places&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws14"&gt;&lt;B&gt;Neighbouring places&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrxAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAg4FU3R5bGULBmZzQm9sZAAAAC05IDIgMCAwIDIg
+MCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAAB
+CVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMO
+AAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAE
+VGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkR
+cnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAw
+IDIgMCA0DQpydnMNCgIAAAAOADMgMSAwIDAgMCAwDQpOZWlnaGJvdXJpbmcgcGxhY2VzICAgIA0K
+</rvf></Component><Component type="2" id="text4" zorder="3" filename="text1821296" left="11" top="207" width="822" height="203" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:19px;"&gt;As Thapae Road has been one of the major business areas of Chiang Mai since the olden days as well as the main route from Nawarat Bridge to Thapae Gate (the grand activity ground of the town), many banks, shopping centres and shop houses are situated in this area.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style="font-size:19px;"&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws14"&gt;As Thapae Road has been one of the major business areas of Chiang Mai since the olden days as well as the main route from Nawarat Bridge to Thapae Gate (the grand activity ground of the town), many banks, shopping centres and shop houses are situated in this area.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class="ws14"&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQriAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAg4AAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAO
+AQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2Vu
+dGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYL
+UmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVO
+YW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3Rl
+Y3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIA
+AAAOADMgMyAwIDAgMCAwDQpBcyBUaGFwYWUgUm9hZCBoYXMgYmVlbiBvbmUgb2YgdGhlIG1ham9y
+IGJ1c2luZXNzIGFyZWFzIG9mIENoaWFuZyBNYWkgc2luY2UgdGhlIG9sZGVuIGRheXMgYXMgd2Vs
+bCBhcyB0aGUgbWFpbiByb3V0ZSBmcm9tIE5hd2FyYXQgQnJpZGdlIHRvIFRoYXBhZSBHYXRlICh0
+aGUgZ3JhbmQgYWN0aXZpdHkgZ3JvdW5kIG9mIHRoZSB0b3duKSwgbWFueSBiYW5rcywgc2hvcHBp
+bmcgY2VudHJlcyBhbmQgc2hvcCBob3VzZXMgYXJlIHNpdHVhdGVkIGluIHRoaXMgYXJlYS4NCg0K
+IA0K
+</rvf></Component><Component type="2" id="text5" zorder="4" filename="text1860437" left="9" top="301" width="251" height="39" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:19px;"&gt;&lt;B&gt;Pink area : Sunday Market&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws14"&gt;&lt;B&gt;Pink area : Sunday Market&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrxAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAg4FU3R5bGULBmZzQm9sZAAAAC05IDIgMCAwIDIg
+MCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAAB
+CVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMO
+AAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAE
+VGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkR
+cnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAw
+IDIgMCA0DQpydnMNCgIAAAAOADMgMSAwIDAgMCAwDQpQaW5rIGFyZWEgOiBTdW5kYXkgTWFya2V0
+DQo=
+</rvf></Component><Component type="2" id="text6" zorder="5" filename="text1886515" left="6" top="345" width="502" height="193" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:19px;"&gt; The pink area on the map indicates the location of the lively Sunday Market of Chiang Mai. The Sunday Market runs on Sundays along Ratchadamnoen Road featuring shopping, food and music. Expect to find activities of all kinds alongside special theme events for young and old alike. You are recommended to go there from 4 pm on, when the weather is cooling down and most vendors have already set up shops.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws14"&gt; The pink area on the map indicates the location of the lively Sunday Market of Chiang Mai. The Sunday Market runs on Sundays along Ratchadamnoen Road featuring shopping, food and music. Expect to find activities of all kinds alongside special theme events for young and old alike. You are recommended to go there from 4 pm on, when the weather is cooling down and most vendors have already set up shops.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQriAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAg4AAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAO
+AQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2Vu
+dGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYL
+UmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVO
+YW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3Rl
+Y3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIA
+AAAOADMgMSAwIDAgMCAwDQogVGhlIHBpbmsgYXJlYSBvbiB0aGUgbWFwIGluZGljYXRlcyB0aGUg
+bG9jYXRpb24gb2YgdGhlIGxpdmVseSBTdW5kYXkgTWFya2V0IG9mIENoaWFuZyBNYWkuIFRoZSBT
+dW5kYXkgTWFya2V0IHJ1bnMgb24gU3VuZGF5cyBhbG9uZyBSYXRjaGFkYW1ub2VuIFJvYWQgZmVh
+dHVyaW5nIHNob3BwaW5nLCBmb29kIGFuZCBtdXNpYy4gRXhwZWN0IHRvIGZpbmQgYWN0aXZpdGll
+cyBvZiBhbGwga2luZHMgYWxvbmdzaWRlIHNwZWNpYWwgdGhlbWUgZXZlbnRzIGZvciB5b3VuZyBh
+bmQgb2xkIGFsaWtlLiBZb3UgYXJlIHJlY29tbWVuZGVkIHRvIGdvIHRoZXJlIGZyb20gNCBwbSBv
+biwgd2hlbiB0aGUgd2VhdGhlciBpcyBjb29saW5nIGRvd24gYW5kIG1vc3QgdmVuZG9ycyBoYXZl
+IGFscmVhZHkgc2V0IHVwIHNob3BzLg0K
+</rvf></Component><Component type="3" id="image1" zorder="6" filename="image1974718" left="531" top="349" width="245" height="179" originwidth="245" originheight="179" src="WSB://images\5.jpg" previewfile="WSB://images\5.jpg" thumbname="thumb7504218" resamplename="img7504234" exportfilename="images/5.jpg" fp="1" lp="1"/><Component type="2" id="text7" zorder="7" filename="text2072046" left="6" top="541" width="290" height="56" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:19px;"&gt;&lt;B&gt;Yellow area : Tourist areas&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws14"&gt;&lt;B&gt;Yellow area : Tourist areas&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrxAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAg4FU3R5bGULBmZzQm9sZAAAAC05IDIgMCAwIDIg
+MCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAAB
+CVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMO
+AAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAE
+VGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkR
+cnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAw
+IDIgMCA0DQpydnMNCgIAAAAOADMgMSAwIDAgMCAwDQpZZWxsb3cgYXJlYSA6IFRvdXJpc3QgYXJl
+YXMNCg==
+</rvf></Component><Component type="2" id="text8" zorder="8" filename="text2135203" left="13" top="578" width="797" height="167" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:19px;"&gt;&amp;nbsp; The yellow area on the map is where Thapae Road and Chang Khlan Road, the two major business and tourist areas of Chiang Mai, are situated. Many banks, shopping centres, shop houses as well as Thai and International restaurants are nestled there. If you prefer shopping at night, you can enjoy the nightly vibrancy of Chiang Mai at Chiang Mai Night Bazaar located along Chang Khlan Road, where an amazing variety of local products and handicrafts are awaiting you.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws14"&gt;&amp;nbsp; The yellow area on the map is where Thapae Road and Chang Khlan Road, the two major business and tourist areas of Chiang Mai, are situated. Many banks, shopping centres, shop houses as well as Thai and International restaurants are nestled there. If you prefer shopping at night, you can enjoy the nightly vibrancy of Chiang Mai at Chiang Mai Night Bazaar located along Chang Khlan Road, where an amazing variety of local products and handicrafts are awaiting you.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQriAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAg4AAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAO
+AQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2Vu
+dGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYL
+UmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVO
+YW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3Rl
+Y3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIA
+AAAOADMgMSAwIDAgMCAwDQogIFRoZSB5ZWxsb3cgYXJlYSBvbiB0aGUgbWFwIGlzIHdoZXJlIFRo
+YXBhZSBSb2FkIGFuZCBDaGFuZyBLaGxhbiBSb2FkLCB0aGUgdHdvIG1ham9yIGJ1c2luZXNzIGFu
+ZCB0b3VyaXN0IGFyZWFzIG9mIENoaWFuZyBNYWksIGFyZSBzaXR1YXRlZC4gTWFueSBiYW5rcywg
+c2hvcHBpbmcgY2VudHJlcywgc2hvcCBob3VzZXMgYXMgd2VsbCBhcyBUaGFpIGFuZCBJbnRlcm5h
+dGlvbmFsIHJlc3RhdXJhbnRzIGFyZSBuZXN0bGVkIHRoZXJlLiBJZiB5b3UgcHJlZmVyIHNob3Bw
+aW5nIGF0IG5pZ2h0LCB5b3UgY2FuIGVuam95IHRoZSBuaWdodGx5IHZpYnJhbmN5IG9mIENoaWFu
+ZyBNYWkgYXQgQ2hpYW5nIE1haSBOaWdodCBCYXphYXIgbG9jYXRlZCBhbG9uZyBDaGFuZyBLaGxh
+biBSb2FkLCB3aGVyZSBhbiBhbWF6aW5nIHZhcmlldHkgb2YgbG9jYWwgcHJvZHVjdHMgYW5kIGhh
+bmRpY3JhZnRzIGFyZSBhd2FpdGluZyB5b3UuDQo=
+</rvf></Component><Component type="2" id="text9" zorder="9" filename="text2186765" left="42" top="763" width="481" height="118" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:19px;"&gt;&lt;B&gt;Central business district&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;UL style="margin-top:0px;margin-bottom:0px"&gt;
+&lt;li&gt;&lt;font style="font-size:15px;"&gt;Thapae Road (Thapae Gate and old city)&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font style="font-size:15px;"&gt;Chang Khlan Road (Night Bazaar&lt;/font&gt;&lt;font style="font-size:19px;"&gt;)&lt;/font&gt;&lt;/li&gt;
+&lt;/UL&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws14"&gt;&lt;B&gt;Central business district&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;UL&gt;
+&lt;li&gt;&lt;font class="ws11"&gt;Thapae Road (Thapae Gate and old city)&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font class="ws11"&gt;Chang Khlan Road (Night Bazaar&lt;/font&gt;&lt;font class="ws14"&gt;)&lt;/font&gt;&lt;/li&gt;
+&lt;/UL&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQplAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAg4AAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0
+YW5kYXJkCAhGb250TmFtZQYFQXJpYWwEU2l6ZQIOBVN0eWxlCwZmc0JvbGQAAAEJU3R5bGVOYW1l
+BgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGBUFyaWFsBFNpemUCCwAALTkgMiAwIDAg
+MiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4A
+AAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFi
+cw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnML
+AARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25s
+eRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAAALTkgMiAw
+IDAgMiAwIDQNCnJ2cw0KhAAAAA4BCVN0eWxlTmFtZQYKTGlzdCBTdHlsZQhTdGFuZGFyZAgGTGV2
+ZWxzDgEKTGVmdEluZGVudAIoC0ZpcnN0SW5kZW50AgAMTWFya2VySW5kZW50AhgLRm9udC5IZWln
+aHQC8QlGb250Lk5hbWUGBlN5bWJvbAAABUxzdElEBNEpThkAADQgMSAwIDAgMCAwDQpDZW50cmFs
+IGJ1c2luZXNzIGRpc3RyaWN0DQotMTEgMCAwIDAgMCAwIDAgMCAwIDANCjUgMSAtMSAxIDAgMA0K
+VGhhcGFlIFJvYWQgKFRoYXBhZSBHYXRlIGFuZCBvbGQgY2l0eSkNCi0xMSAwIDAgMCAwIDAgMCAw
+IDAgMA0KNSAxIC0xIDEgMCAwDQpDaGFuZyBLaGxhbiBSb2FkIChOaWdodCBCYXphYXINCjMgMSAt
+MSAxIDAgMA0KKQ0K
+</rvf></Component><Component type="2" id="text10" zorder="10" filename="text2295609" left="46" top="858" width="361" height="245" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:19px;"&gt;&lt;B&gt;Banks with currency exchange service&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;UL style="margin-top:0px;margin-bottom:0px"&gt;
+&lt;li&gt;&lt;font style="font-size:15px;"&gt;Bangkok Bank&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font style="font-size:15px;"&gt;Krung Thai Bank&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font style="font-size:15px;"&gt;Siam Commercial Bank&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font style="font-size:15px;"&gt;Kasikornbank&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font style="font-size:15px;"&gt;Bank of Ayudhya&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font style="font-size:15px;"&gt;Siam City Bank&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font style="font-size:15px;"&gt;Western Union&lt;/font&gt;&lt;/li&gt;
+&lt;/UL&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws14"&gt;&lt;B&gt;Banks with currency exchange service&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;UL&gt;
+&lt;li&gt;&lt;font class="ws11"&gt;Bangkok Bank&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font class="ws11"&gt;Krung Thai Bank&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font class="ws11"&gt;Siam Commercial Bank&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font class="ws11"&gt;Kasikornbank&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font class="ws11"&gt;Bank of Ayudhya&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font class="ws11"&gt;Siam City Bank&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font class="ws11"&gt;Western Union&lt;/font&gt;&lt;/li&gt;
+&lt;/UL&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQorAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAg4FU3R5bGULBmZzQm9sZAAAAQlTdHlsZU5hbWUG
+C05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYFQXJpYWwEU2l6ZQILAAAtOSAyIDAgMCAy
+IDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnMLAARUYWJzDgAA
+AQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnMLAARUYWJz
+DgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQHT3B0aW9ucwsA
+BFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBhb1JlYWRPbmx5
+EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4AAAAtOSAyIDAg
+MCAyIDAgNA0KcnZzDQqEAAAADgEJU3R5bGVOYW1lBgpMaXN0IFN0eWxlCFN0YW5kYXJkCAZMZXZl
+bHMOAQpMZWZ0SW5kZW50AigLRmlyc3RJbmRlbnQCAAxNYXJrZXJJbmRlbnQCGAtGb250LkhlaWdo
+dALxCUZvbnQuTmFtZQYGU3ltYm9sAAAFTHN0SUQEGhmnKgAAMyAxIDAgMCAwIDANCkJhbmtzIHdp
+dGggY3VycmVuY3kgZXhjaGFuZ2Ugc2VydmljZQ0KLTExIDAgMCAwIDAgMCAwIDAgMCAwDQo0IDEg
+LTEgMSAwIDANCkJhbmdrb2sgQmFuaw0KLTExIDAgMCAwIDAgMCAwIDAgMCAwDQo0IDEgLTEgMSAw
+IDANCktydW5nIFRoYWkgQmFuaw0KLTExIDAgMCAwIDAgMCAwIDAgMCAwDQo0IDEgLTEgMSAwIDAN
+ClNpYW0gQ29tbWVyY2lhbCBCYW5rDQotMTEgMCAwIDAgMCAwIDAgMCAwIDANCjQgMSAtMSAxIDAg
+MA0KS2FzaWtvcm5iYW5rDQotMTEgMCAwIDAgMCAwIDAgMCAwIDANCjQgMSAtMSAxIDAgMA0KQmFu
+ayBvZiBBeXVkaHlhDQotMTEgMCAwIDAgMCAwIDAgMCAwIDANCjQgMSAtMSAxIDAgMA0KU2lhbSBD
+aXR5IEJhbmsNCi0xMSAwIDAgMCAwIDAgMCAwIDAgMA0KNCAxIC0xIDEgMCAwDQpXZXN0ZXJuIFVu
+aW9uDQo=
+</rvf></Component><Component type="2" id="text11" zorder="11" filename="text2350328" left="47" top="1034" width="266" height="254" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:19px;"&gt;&lt;B&gt;Transportation&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;UL style="margin-top:0px;margin-bottom:0px"&gt;
+&lt;li&gt;&lt;font style="font-size:15px;"&gt;15 minutes to International Airport&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font style="font-size:15px;"&gt;20 minutes to Railway Station&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font style="font-size:15px;"&gt;15 minutes to Bus Station&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font style="font-size:15px;"&gt;Convenient access to all kinds of local transportation: red minibus (rot daeng), Tuk Tuk, local bus&lt;/font&gt;&lt;/li&gt;
+&lt;/UL&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws14"&gt;&lt;B&gt;Transportation&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;UL&gt;
+&lt;li&gt;&lt;font class="ws11"&gt;15 minutes to International Airport&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font class="ws11"&gt;20 minutes to Railway Station&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font class="ws11"&gt;15 minutes to Bus Station&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font class="ws11"&gt;Convenient access to all kinds of local transportation: red minibus (rot daeng), Tuk Tuk, local bus&lt;/font&gt;&lt;/li&gt;
+&lt;/UL&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQorAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAgsAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0
+YW5kYXJkCAhGb250TmFtZQYFQXJpYWwEU2l6ZQIOBVN0eWxlCwZmc0JvbGQAAAAtOSAyIDAgMCAy
+IDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnMLAARUYWJzDgAA
+AQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnMLAARUYWJz
+DgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQHT3B0aW9ucwsA
+BFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBhb1JlYWRPbmx5
+EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4AAAAtOSAyIDAg
+MCAyIDAgNA0KcnZzDQqEAAAADgEJU3R5bGVOYW1lBgpMaXN0IFN0eWxlCFN0YW5kYXJkCAZMZXZl
+bHMOAQpMZWZ0SW5kZW50AigLRmlyc3RJbmRlbnQCAAxNYXJrZXJJbmRlbnQCGAtGb250LkhlaWdo
+dALxCUZvbnQuTmFtZQYGU3ltYm9sAAAFTHN0SUQEhCcJGwAANCAxIDAgMCAwIDANClRyYW5zcG9y
+dGF0aW9uDQotMTEgMCAwIDAgMCAwIDAgMCAwIDANCjMgMSAtMSAxIDAgMA0KMTUgbWludXRlcyB0
+byBJbnRlcm5hdGlvbmFsIEFpcnBvcnQNCi0xMSAwIDAgMCAwIDAgMCAwIDAgMA0KMyAxIC0xIDEg
+MCAwDQoyMCBtaW51dGVzIHRvIFJhaWx3YXkgU3RhdGlvbg0KLTExIDAgMCAwIDAgMCAwIDAgMCAw
+DQozIDEgLTEgMSAwIDANCjE1IG1pbnV0ZXMgdG8gQnVzIFN0YXRpb24NCi0xMSAwIDAgMCAwIDAg
+MCAwIDAgMA0KMyAxIC0xIDEgMCAwDQpDb252ZW5pZW50IGFjY2VzcyB0byBhbGwga2luZHMgb2Yg
+bG9jYWwgdHJhbnNwb3J0YXRpb246IHJlZCBtaW5pYnVzIChyb3QgZGFlbmcpLCBUdWsgVHVrLCBs
+b2NhbCBidXMNCg==
+</rvf></Component><Component type="2" id="text12" zorder="12" filename="text2401953" left="495" top="754" width="432" height="119" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:19px;"&gt;&lt;B&gt;Universities: 20 minutes to the well-known universities of Chiang Mai&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;UL style="margin-top:0px;margin-bottom:0px"&gt;
+&lt;li&gt;&lt;font style="font-size:15px;"&gt;Chiang Mai University&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font style="font-size:15px;"&gt;Payap University&lt;/font&gt;&lt;/li&gt;
+&lt;/UL&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws14"&gt;&lt;B&gt;Universities: 20 minutes to the well-known universities of Chiang Mai&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;UL&gt;
+&lt;li&gt;&lt;font class="ws11"&gt;Chiang Mai University&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font class="ws11"&gt;Payap University&lt;/font&gt;&lt;/li&gt;
+&lt;/UL&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQorAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAg4FU3R5bGULBmZzQm9sZAAAAQlTdHlsZU5hbWUG
+C05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYFQXJpYWwEU2l6ZQILAAAtOSAyIDAgMCAy
+IDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnMLAARUYWJzDgAA
+AQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnMLAARUYWJz
+DgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQHT3B0aW9ucwsA
+BFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBhb1JlYWRPbmx5
+EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4AAAAtOSAyIDAg
+MCAyIDAgNA0KcnZzDQqEAAAADgEJU3R5bGVOYW1lBgpMaXN0IFN0eWxlCFN0YW5kYXJkCAZMZXZl
+bHMOAQpMZWZ0SW5kZW50AigLRmlyc3RJbmRlbnQCAAxNYXJrZXJJbmRlbnQCGAtGb250LkhlaWdo
+dALxCUZvbnQuTmFtZQYGU3ltYm9sAAAFTHN0SUQEmVm2IwAAMyAxIDAgMCAwIDANClVuaXZlcnNp
+dGllczogMjAgbWludXRlcyB0byB0aGUgd2VsbC1rbm93biB1bml2ZXJzaXRpZXMgb2YgQ2hpYW5n
+IE1haQ0KLTExIDAgMCAwIDAgMCAwIDAgMCAwDQo0IDEgLTEgMSAwIDANCkNoaWFuZyBNYWkgVW5p
+dmVyc2l0eQ0KLTExIDAgMCAwIDAgMCAwIDAgMCAwDQo0IDEgLTEgMSAwIDANClBheWFwIFVuaXZl
+cnNpdHkNCg==
+</rvf></Component><Component type="2" id="text13" zorder="13" filename="text2476890" left="490" top="860" width="436" height="124" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:15px;"&gt;&lt;B&gt;Shopping Centres&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;UL style="margin-top:0px;margin-bottom:0px"&gt;
+&lt;li&gt;&lt;font style="font-size:15px;"&gt;A walking distance to Night Bazaar&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font style="font-size:15px;"&gt;15 minutes by car to Central Airport Plaza&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font style="font-size:15px;"&gt;10 minutes by car to Central Kaad Suan Kaew&lt;/font&gt;&lt;/li&gt;
+&lt;/UL&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws11"&gt;&lt;B&gt;Shopping Centres&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;UL&gt;
+&lt;li&gt;&lt;font class="ws11"&gt;A walking distance to Night Bazaar&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font class="ws11"&gt;15 minutes by car to Central Airport Plaza&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font class="ws11"&gt;10 minutes by car to Central Kaad Suan Kaew&lt;/font&gt;&lt;/li&gt;
+&lt;/UL&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQorAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAgsAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0
+YW5kYXJkCAhGb250TmFtZQYFQXJpYWwEU2l6ZQILBVN0eWxlCwZmc0JvbGQAAAAtOSAyIDAgMCAy
+IDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnMLAARUYWJzDgAA
+AQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnMLAARUYWJz
+DgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQHT3B0aW9ucwsA
+BFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBhb1JlYWRPbmx5
+EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4AAAAtOSAyIDAg
+MCAyIDAgNA0KcnZzDQqEAAAADgEJU3R5bGVOYW1lBgpMaXN0IFN0eWxlCFN0YW5kYXJkCAZMZXZl
+bHMOAQpMZWZ0SW5kZW50AigLRmlyc3RJbmRlbnQCAAxNYXJrZXJJbmRlbnQCGAtGb250LkhlaWdo
+dALxCUZvbnQuTmFtZQYGU3ltYm9sAAAFTHN0SUQE/+WOUQAANCAxIDAgMCAwIDANClNob3BwaW5n
+IENlbnRyZXMNCi0xMSAwIDAgMCAwIDAgMCAwIDAgMA0KMyAxIC0xIDEgMCAwDQpBIHdhbGtpbmcg
+ZGlzdGFuY2UgdG8gTmlnaHQgQmF6YWFyDQotMTEgMCAwIDAgMCAwIDAgMCAwIDANCjMgMSAtMSAx
+IDAgMA0KMTUgbWludXRlcyBieSBjYXIgdG8gQ2VudHJhbCBBaXJwb3J0IFBsYXphDQotMTEgMCAw
+IDAgMCAwIDAgMCAwIDANCjMgMSAtMSAxIDAgMA0KMTAgbWludXRlcyBieSBjYXIgdG8gQ2VudHJh
+bCBLYWFkIFN1YW4gS2Fldw0K
+</rvf></Component><Component type="2" id="text14" zorder="14" filename="text2523296" left="488" top="982" width="410" height="165" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:19px;"&gt;&lt;B&gt;Hospital: 10-15 minutes to major hospitals&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;UL style="margin-top:0px;margin-bottom:0px"&gt;
+&lt;li&gt;&lt;font style="font-size:15px;"&gt;Chiang Mai Ram 1&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font style="font-size:15px;"&gt;Maharaj&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font style="font-size:15px;"&gt;McCormic&lt;/font&gt;&lt;/li&gt;
+&lt;/UL&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws14"&gt;&lt;B&gt;Hospital: 10-15 minutes to major hospitals&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;UL&gt;
+&lt;li&gt;&lt;font class="ws11"&gt;Chiang Mai Ram 1&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font class="ws11"&gt;Maharaj&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font class="ws11"&gt;McCormic&lt;/font&gt;&lt;/li&gt;
+&lt;/UL&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQorAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAgsAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0
+YW5kYXJkCAhGb250TmFtZQYFQXJpYWwEU2l6ZQIOBVN0eWxlCwZmc0JvbGQAAAAtOSAyIDAgMCAy
+IDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnMLAARUYWJzDgAA
+AQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnMLAARUYWJz
+DgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQHT3B0aW9ucwsA
+BFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBhb1JlYWRPbmx5
+EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4AAAAtOSAyIDAg
+MCAyIDAgNA0KcnZzDQqEAAAADgEJU3R5bGVOYW1lBgpMaXN0IFN0eWxlCFN0YW5kYXJkCAZMZXZl
+bHMOAQpMZWZ0SW5kZW50AigLRmlyc3RJbmRlbnQCAAxNYXJrZXJJbmRlbnQCGAtGb250LkhlaWdo
+dALxCUZvbnQuTmFtZQYGU3ltYm9sAAAFTHN0SUQE/31idgAANCAxIDAgMCAwIDANCkhvc3BpdGFs
+OiAxMC0xNSBtaW51dGVzIHRvIG1ham9yIGhvc3BpdGFscw0KLTExIDAgMCAwIDAgMCAwIDAgMCAw
+DQozIDEgLTEgMSAwIDANCkNoaWFuZyBNYWkgUmFtIDENCi0xMSAwIDAgMCAwIDAgMCAwIDAgMA0K
+MyAxIC0xIDEgMCAwDQpNYWhhcmFqDQotMTEgMCAwIDAgMCAwIDAgMCAwIDANCjMgMSAtMSAxIDAg
+MA0KTWNDb3JtaWMNCg==
+</rvf></Component><Component type="2" id="text15" zorder="15" filename="text2568171" left="477" top="1075" width="429" height="122" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:19px;"&gt;&lt;B&gt;Others&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;UL style="margin-top:0px;margin-bottom:0px"&gt;
+&lt;li&gt;&lt;font style="font-size:15px;"&gt;Famous local market: Sunday market, Warorot Market and Ton Lam Yai Market with the flower market nearby&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font style="font-size:15px;"&gt;Post office&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font style="font-size:15px;"&gt;Consulate&lt;/font&gt;&lt;/li&gt;
+&lt;/UL&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws14"&gt;&lt;B&gt;Others&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;UL&gt;
+&lt;li&gt;&lt;font class="ws11"&gt;Famous local market: Sunday market, Warorot Market and Ton Lam Yai Market with the flower market nearby&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font class="ws11"&gt;Post office&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font class="ws11"&gt;Consulate&lt;/font&gt;&lt;/li&gt;
+&lt;/UL&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQorAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAgsAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0
+YW5kYXJkCAhGb250TmFtZQYFQXJpYWwEU2l6ZQIOBVN0eWxlCwZmc0JvbGQAAAAtOSAyIDAgMCAy
+IDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnMLAARUYWJzDgAA
+AQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnMLAARUYWJz
+DgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQHT3B0aW9ucwsA
+BFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBhb1JlYWRPbmx5
+EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4AAAAtOSAyIDAg
+MCAyIDAgNA0KcnZzDQqEAAAADgEJU3R5bGVOYW1lBgpMaXN0IFN0eWxlCFN0YW5kYXJkCAZMZXZl
+bHMOAQpMZWZ0SW5kZW50AigLRmlyc3RJbmRlbnQCAAxNYXJrZXJJbmRlbnQCGAtGb250LkhlaWdo
+dALxCUZvbnQuTmFtZQYGU3ltYm9sAAAFTHN0SUQEArjoDAAANCAxIDAgMCAwIDANCk90aGVycw0K
+LTExIDAgMCAwIDAgMCAwIDAgMCAwDQozIDEgLTEgMSAwIDANCkZhbW91cyBsb2NhbCBtYXJrZXQ6
+IFN1bmRheSBtYXJrZXQsIFdhcm9yb3QgTWFya2V0IGFuZCBUb24gTGFtIFlhaSBNYXJrZXQgd2l0
+aCB0aGUgZmxvd2VyIG1hcmtldCBuZWFyYnkNCi0xMSAwIDAgMCAwIDAgMCAwIDAgMA0KMyAxIC0x
+IDEgMCAwDQpQb3N0IG9mZmljZQ0KLTExIDAgMCAwIDAgMCAwIDAgMCAwDQozIDEgLTEgMSAwIDAN
+CkNvbnN1bGF0ZQ0K
+</rvf></Component><Component type="2" id="text16" zorder="16" filename="text2608953" left="937" top="38" width="257" height="532" html="Double click to edit text" bgcolor="#003366" fp="1" lp="1" backup="1"/><Component type="5" id="nav1" zorder="17" filename="nav2715968" fontname="Tahoma" fontsize="8" fontcolor="8421504" fontstyle="1" activecolor="536870911" navspace="5" navstyle="1" hormargin="0" vermargin="0" textalign="1" navwidth="180" navheight="31" normalimage="WSB://images\rect02in.gif" mouseoverimage="WSB://images\rect02over.gif" mouseoversound="" navtext0="HOME" navurl0="page://p128390" navtarget0="" navstate0="0" navtext1="LOCATION" navurl1="page://p1251531" navtarget1="" navstate1="0" navtext2="GUEST ROOMS" navurl2="page://p1256796" navtarget2="" navstate2="0" navtext3="FACILITIES &amp;SERVICES" navurl3="page://p1257609" navtarget3="" navstate3="0" navtext4="RESEVATION FORM" navurl4="page://p1258359" navtarget4="" navstate4="0" navtext5="CONTACT US" navurl5="page://p1258890" navtarget5="" navstate5="0" navcount="6" width="180" height="216" preview="C:\Users\COM-1\AppData\Local\Temp\Web Page Maker\doc1AVL6\NavB7KGA" left="974" top="100" exportfilename="images/nav2715968" exportsound="" fp="1" lp="1"/></body></page><page id="p1256796" pageindex="2" name="page3" pp="1" cp="1"><body backgroundcolor="#FFCC99" bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component type="2" id="text1" zorder="0" filename="text2870156" left="27" top="19" width="281" height="77" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:19px;"&gt;&lt;B&gt;GUEST ROOMS&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws14"&gt;&lt;B&gt;GUEST ROOMS&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrxAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAg4FU3R5bGULBmZzQm9sZAAAAC05IDIgMCAwIDIg
+MCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAAB
+CVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMO
+AAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAE
+VGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkR
+cnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAw
+IDIgMCA0DQpydnMNCgIAAAAOADMgMSAwIDAgMCAwDQpHVUVTVCBST09NUw0K
+</rvf></Component><Component type="2" id="text2" zorder="1" filename="text2912906" left="33" top="55" width="848" height="111" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:19px;"&gt; Veerachai Court is the ideal residence for long term or weekend visitors. Accommodations are available in either air-conditioned or fan rooms.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws14"&gt; Veerachai Court is the ideal residence for long term or weekend visitors. Accommodations are available in either air-conditioned or fan rooms.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQocAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAg4AAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0
+YW5kYXJkCAhGb250TmFtZQYFQXJpYWwEU2l6ZQILAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAA
+DgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENl
+bnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUG
+C1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxl
+TmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90
+ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoC
+AAAADgAzIDEgMCAwIDAgMA0KIFZlZXJhY2hhaSBDb3VydCBpcyB0aGUgaWRlYWwgcmVzaWRlbmNl
+IGZvciBsb25nIHRlcm0gb3Igd2Vla2VuZCB2aXNpdG9ycy4gQWNjb21tb2RhdGlvbnMgYXJlIGF2
+YWlsYWJsZSBpbiBlaXRoZXIgYWlyLWNvbmRpdGlvbmVkIG9yIGZhbiByb29tcy4NCg==
+</rvf></Component><Component type="3" id="image1" zorder="2" filename="image2996968" left="7" top="110" width="200" height="136" originwidth="200" originheight="136" src="WSB://images\6.jpg" previewfile="WSB://images\6.jpg" thumbname="thumb7504265" resamplename="img7504281" exportfilename="images/6.jpg" fp="1" lp="1"/><Component type="3" id="image2" zorder="3" filename="image3004078" left="243" top="118" width="192" height="136" originwidth="192" originheight="136" src="WSB://images\7.jpg" previewfile="WSB://images\7.jpg" thumbname="thumb7504312" resamplename="img7504328" exportfilename="images/7.jpg" fp="1" lp="1"/><Component type="3" id="image3" zorder="4" filename="image3011562" left="490" top="123" width="150" height="134" originwidth="150" originheight="134" src="WSB://images\8.jpg" previewfile="WSB://images\8.jpg" thumbname="thumb7504359" resamplename="img7504375" exportfilename="images/8.jpg" fp="1" lp="1"/><Component type="2" id="text3" zorder="5" filename="text3072500" left="24" top="273" width="688" height="238" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:19px;"&gt;&lt;B&gt;All 170 rooms are well-appointed with full facilities&lt;/B&gt;&lt;/font&gt;&lt;font style="font-size:15px;"&gt;:&lt;/font&gt;&lt;/div&gt;
+&lt;UL style="margin-top:0px;margin-bottom:0px"&gt;
+&lt;li&gt;&lt;font style="font-size:15px;"&gt;Air-con or fan&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font style="font-size:15px;"&gt;Private balcony&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font style="font-size:15px;"&gt;Spacious private bathroom&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font style="font-size:15px;"&gt;Hot &amp;amp; cold shower&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font style="font-size:15px;"&gt;Telephone&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font style="font-size:15px;"&gt;Refrigerator&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font style="font-size:15px;"&gt;Desk&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font style="font-size:15px;"&gt;International cable TV&lt;/font&gt;&lt;/li&gt;
+&lt;/UL&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws14"&gt;&lt;B&gt;All 170 rooms are well-appointed with full facilities&lt;/B&gt;&lt;/font&gt;&lt;font class="ws11"&gt;:&lt;/font&gt;&lt;/div&gt;
+&lt;UL&gt;
+&lt;li&gt;&lt;font class="ws11"&gt;Air-con or fan&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font class="ws11"&gt;Private balcony&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font class="ws11"&gt;Spacious private bathroom&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font class="ws11"&gt;Hot &amp;amp; cold shower&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font class="ws11"&gt;Telephone&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font class="ws11"&gt;Refrigerator&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font class="ws11"&gt;Desk&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font class="ws11"&gt;International cable TV&lt;/font&gt;&lt;/li&gt;
+&lt;/UL&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQorAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAgsAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0
+YW5kYXJkCAhGb250TmFtZQYFQXJpYWwEU2l6ZQIOBVN0eWxlCwZmc0JvbGQAAAAtOSAyIDAgMCAy
+IDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnMLAARUYWJzDgAA
+AQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnMLAARUYWJz
+DgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQHT3B0aW9ucwsA
+BFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBhb1JlYWRPbmx5
+EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4AAAAtOSAyIDAg
+MCAyIDAgNA0KcnZzDQqEAAAADgEJU3R5bGVOYW1lBgpMaXN0IFN0eWxlCFN0YW5kYXJkCAZMZXZl
+bHMOAQpMZWZ0SW5kZW50AigLRmlyc3RJbmRlbnQCAAxNYXJrZXJJbmRlbnQCGAtGb250LkhlaWdo
+dALxCUZvbnQuTmFtZQYGU3ltYm9sAAAFTHN0SUQEh3iLKgAANCAxIDAgMCAwIDANCkFsbCAxNzAg
+cm9vbXMgYXJlIHdlbGwtYXBwb2ludGVkIHdpdGggZnVsbCBmYWNpbGl0aWVzDQozIDEgLTEgMSAw
+IDANCjoNCi0xMSAwIDAgMCAwIDAgMCAwIDAgMA0KMyAxIC0xIDEgMCAwDQpBaXItY29uIG9yIGZh
+bg0KLTExIDAgMCAwIDAgMCAwIDAgMCAwDQozIDEgLTEgMSAwIDANClByaXZhdGUgYmFsY29ueQ0K
+LTExIDAgMCAwIDAgMCAwIDAgMCAwDQozIDEgLTEgMSAwIDANClNwYWNpb3VzIHByaXZhdGUgYmF0
+aHJvb20NCi0xMSAwIDAgMCAwIDAgMCAwIDAgMA0KMyAxIC0xIDEgMCAwDQpIb3QgJiBjb2xkIHNo
+b3dlcg0KLTExIDAgMCAwIDAgMCAwIDAgMCAwDQozIDEgLTEgMSAwIDANClRlbGVwaG9uZQ0KLTEx
+IDAgMCAwIDAgMCAwIDAgMCAwDQozIDEgLTEgMSAwIDANClJlZnJpZ2VyYXRvcg0KLTExIDAgMCAw
+IDAgMCAwIDAgMCAwDQozIDEgLTEgMSAwIDANCkRlc2sNCi0xMSAwIDAgMCAwIDAgMCAwIDAgMA0K
+MyAxIC0xIDEgMCAwDQpJbnRlcm5hdGlvbmFsIGNhYmxlIFRWDQo=
+</rvf></Component><Component type="2" id="text4" zorder="6" filename="text3134734" left="30" top="483" width="1086" height="219" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:19px;"&gt;&lt;B&gt;Room Rates&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font style="font-size:19px;"&gt;&amp;nbsp;&amp;nbsp; &lt;/font&gt;&lt;font style="font-size:15px;"&gt; Veerachai Court provides clean and safe accommodations that reach the standard. We are confident that our rates are cheaper than other hotels in nearby areas.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font style="font-size:15px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; We offer the same rates all year round. Long stay guests please contact us directly.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font style="font-size:15px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Reservation Form&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws14"&gt;&lt;B&gt;Room Rates&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font class="ws14"&gt;&amp;nbsp;&amp;nbsp; &lt;/font&gt;&lt;font class="ws11"&gt; Veerachai Court provides clean and safe accommodations that reach the standard. We are confident that our rates are cheaper than other hotels in nearby areas.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font class="ws11"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; We offer the same rates all year round. Long stay guests please contact us directly.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font class="ws11"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Reservation Form&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQplAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAg4AAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0
+YW5kYXJkCAhGb250TmFtZQYFQXJpYWwEU2l6ZQIOBVN0eWxlCwZmc0JvbGQAAAEJU3R5bGVOYW1l
+BgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGBUFyaWFsBFNpemUCCwAALTkgMiAwIDAg
+MiAwIDINCnJ2cw0KUAEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4A
+AAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFi
+cw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnML
+AARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25s
+eRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAABCVN0eWxl
+TmFtZQYKTGVmdCBBbGlnbghTdGFuZGFyZAgJQWxpZ25tZW50BwpydmFKdXN0aWZ5B09wdGlvbnML
+AARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADQgMSAwIDAgMCAwDQpSb29tIFJh
+dGVzDQozIDEgNCAwIDAgMA0KICAgDQo1IDEgLTEgMSAwIDANCiBWZWVyYWNoYWkgQ291cnQgcHJv
+dmlkZXMgY2xlYW4gYW5kIHNhZmUgYWNjb21tb2RhdGlvbnMgdGhhdCByZWFjaCB0aGUgc3RhbmRh
+cmQuIFdlIGFyZSBjb25maWRlbnQgdGhhdCBvdXIgcmF0ZXMgYXJlIGNoZWFwZXIgdGhhbiBvdGhl
+ciBob3RlbHMgaW4gbmVhcmJ5IGFyZWFzLg0KNSAyIDQgMCAwIDANCiAgICBXZSBvZmZlciB0aGUg
+c2FtZSByYXRlcyBhbGwgeWVhciByb3VuZC4gTG9uZyBzdGF5IGd1ZXN0cyBwbGVhc2UgY29udGFj
+dCB1cyBkaXJlY3RseS4NCiAgICAgUmVzZXJ2YXRpb24gRm9ybQ0KMyAxIDQgMCAwIDANCg0K
+</rvf></Component><Component type="2" id="text5" zorder="7" filename="text3218296" left="39" top="594" width="261" height="43" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:19px;"&gt;&lt;B&gt;RESERVIATION FORM&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws14"&gt;&lt;B&gt;RESERVIATION FORM&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrxAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAg4FU3R5bGULBmZzQm9sZAAAAC05IDIgMCAwIDIg
+MCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAAB
+CVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMO
+AAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAE
+VGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkR
+cnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAw
+IDIgMCA0DQpydnMNCgIAAAAOADMgMSAwIDAgMCAwDQpSRVNFUlZJQVRJT04gRk9STQ0K
+</rvf></Component><Component type="3" id="image4" zorder="8" filename="image3354109" left="46" top="670" width="90" height="135" originwidth="90" originheight="135" src="WSB://images\9.jpg" previewfile="WSB://images\9.jpg" thumbname="thumb7504406" resamplename="img7504421" exportfilename="images/9.jpg" fp="1" lp="1"/><Component type="3" id="image5" zorder="9" filename="image3375515" left="181" top="646" width="200" height="134" originwidth="200" originheight="134" src="WSB://images\4room02_200.jpg" previewfile="WSB://images\4room02_200.jpg" thumbname="thumb7504453" resamplename="img7504468" exportfilename="images/4room02_200.jpg" fp="1" lp="1"/><Component type="3" id="image6" zorder="10" filename="image3382843" left="258" top="832" width="208" height="138" originwidth="208" originheight="138" src="WSB://images\4room04_190.jpg" previewfile="WSB://images\4room04_190.jpg" thumbname="thumb7504500" resamplename="img7504515" exportfilename="images/4room04_190.jpg" fp="1" lp="1"/><Component type="3" id="image7" zorder="11" filename="image3389906" left="514" top="838" width="105" height="138" originwidth="105" originheight="138" src="WSB://images\4room05_138.jpg" previewfile="WSB://images\4room05_138.jpg" thumbname="thumb7504546" resamplename="img7504562" exportfilename="images/4room05_138.jpg" fp="1" lp="1"/><Component type="3" id="image8" zorder="12" filename="image3401375" left="33" top="834" width="200" height="136" originwidth="200" originheight="136" src="WSB://images\4room07_200.jpg" previewfile="WSB://images\4room07_200.jpg" thumbname="thumb7504593" resamplename="img7504609" exportfilename="images/4room07_200.jpg" fp="1" lp="1"/><Component type="3" id="image9" zorder="13" filename="image3414578" left="425" top="648" width="200" height="136" originwidth="200" originheight="136" src="WSB://images\4room08_200.jpg" previewfile="WSB://images\4room08_200.jpg" thumbname="thumb7504640" resamplename="img7504656" exportfilename="images/4room08_200.jpg" fp="1" lp="1"/><Component type="2" id="text6" zorder="14" filename="text3485062" left="1221" top="63" width="219" height="548" html="Double click to edit text" bgcolor="#FF9900" fp="1" lp="1" backup="1"/><Component type="5" id="nav1" zorder="15" filename="nav3633328" fontname="Tahoma" fontsize="8" fontcolor="8421504" fontstyle="1" activecolor="536870911" navspace="5" navstyle="1" hormargin="0" vermargin="0" textalign="1" navwidth="180" navheight="31" normalimage="WSB://images\rect02in.gif" mouseoverimage="WSB://images\rect02over.gif" mouseoversound="" navtext0="HOME" navurl0="page://p128390" navtarget0="" navstate0="0" navtext1="LOCATION" navurl1="page://p1251531" navtarget1="" navstate1="0" navtext2="GUEST ROOMS" navurl2="page://p1256796" navtarget2="" navstate2="0" navtext3="FACILITIES &amp; SERVICES" navurl3="page://p1257609" navtarget3="" navstate3="0" navtext4="RESERVATION FORM" navurl4="page://p1258359" navtarget4="" navstate4="0" navtext5="CONTACT US" navurl5="page://p1258890" navtarget5="" navstate5="0" navcount="6" width="180" height="216" preview="C:\Users\COM-1\AppData\Local\Temp\Web Page Maker\doc1AVL6\NavBGQ3U" left="1242" top="172" fp="1" exportfilename="images/nav3633328" exportsound="" lp="1"/></body></page><page id="p1257609" pageindex="3" name="page4" pp="1" cp="1"><body backgroundcolor="#FF99CC" bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component type="2" id="text1" zorder="0" filename="text3753171" left="17" top="10" width="271" height="82" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" bgcolor="" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:19px;"&gt;&lt;B&gt;FACILITIES &amp;amp; SEVICES&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws14"&gt;&lt;B&gt;FACILITIES &amp;amp; SEVICES&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrxAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAg4FU3R5bGULBmZzQm9sZAAAAC05IDIgMCAwIDIg
+MCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAAB
+CVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMO
+AAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAE
+VGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkR
+cnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAw
+IDIgMCA0DQpydnMNCgIAAAAOADMgMSAwIDAgMCAwDQpGQUNJTElUSUVTICYgU0VWSUNFUw0K
+</rvf></Component><Component type="3" id="image1" zorder="1" filename="image3888296" left="23" top="56" width="290" height="150" originwidth="290" originheight="150" src="WSB://images\10.jpg" previewfile="WSB://images\10.jpg" thumbname="thumb7504703" resamplename="img7504718" exportfilename="images/10.jpg" fp="1" lp="1"/><Component type="3" id="image2" zorder="2" filename="image3898468" left="65" top="220" width="220" height="150" originwidth="220" originheight="150" src="WSB://images\11.jpg" previewfile="WSB://images\11.jpg" thumbname="thumb7504750" resamplename="img7504765" exportfilename="images/11.jpg" fp="1" lp="1"/><Component type="3" id="image3" zorder="3" filename="image3905812" left="367" top="213" width="200" height="136" originwidth="200" originheight="136" src="WSB://images\12.jpg" previewfile="WSB://images\12.jpg" thumbname="thumb7504796" resamplename="img7504812" exportfilename="images/12.jpg" fp="1" lp="1"/><Component type="3" id="image4" zorder="4" filename="image3912968" left="397" top="66" width="200" height="136" originwidth="200" originheight="136" src="WSB://images\13.jpg" previewfile="WSB://images\13.jpg" thumbname="thumb7504843" resamplename="img7504859" exportfilename="images/13.jpg" fp="1" lp="1"/><Component type="3" id="image5" zorder="5" filename="image3918890" left="635" top="248" width="72" height="102" originwidth="72" originheight="102" src="WSB://images\4index04.jpg" previewfile="WSB://images\4index04.jpg" thumbname="thumb7504890" resamplename="img7504906" exportfilename="images/4index04.jpg" fp="1" lp="1"/><Component type="2" id="text2" zorder="6" filename="text3963750" left="42" top="411" width="255" height="283" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;UL style="margin-top:0px;margin-bottom:0px"&gt;
+&lt;li&gt;&lt;font style="font-size:19px;"&gt;Hot &amp;amp; cold shower&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font style="font-size:19px;"&gt;Private balcony&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font style="font-size:19px;"&gt;Spacious private bathroom&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font style="font-size:19px;"&gt;Desk&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font style="font-size:19px;"&gt;Laundry service&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font style="font-size:19px;"&gt;Minimart&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font style="font-size:19px;"&gt;Cleaning service&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font style="font-size:19px;"&gt;Coffee corner&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font style="font-size:19px;"&gt;Free International Cable TV&lt;/font&gt;&lt;/li&gt;
+&lt;/UL&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;UL&gt;
+&lt;li&gt;&lt;font class="ws14"&gt;Hot &amp;amp; cold shower&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font class="ws14"&gt;Private balcony&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font class="ws14"&gt;Spacious private bathroom&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font class="ws14"&gt;Desk&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font class="ws14"&gt;Laundry service&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font class="ws14"&gt;Minimart&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font class="ws14"&gt;Cleaning service&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font class="ws14"&gt;Coffee corner&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font class="ws14"&gt;Free International Cable TV&lt;/font&gt;&lt;/li&gt;
+&lt;/UL&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQriAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAg4AAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAO
+AQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2Vu
+dGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYL
+UmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVO
+YW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3Rl
+Y3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCoQA
+AAAOAQlTdHlsZU5hbWUGCkxpc3QgU3R5bGUIU3RhbmRhcmQIBkxldmVscw4BCkxlZnRJbmRlbnQC
+KAtGaXJzdEluZGVudAIADE1hcmtlckluZGVudAIYC0ZvbnQuSGVpZ2h0AvEJRm9udC5OYW1lBgZT
+eW1ib2wAAAVMc3RJRAQVyodkAAAtMTEgMCAwIDAgMCAwIDAgMCAwIDANCjMgMSAtMSAxIDAgMA0K
+SG90ICYgY29sZCBzaG93ZXINCi0xMSAwIDAgMCAwIDAgMCAwIDAgMA0KMyAxIC0xIDEgMCAwDQpQ
+cml2YXRlIGJhbGNvbnkNCi0xMSAwIDAgMCAwIDAgMCAwIDAgMA0KMyAxIC0xIDEgMCAwDQpTcGFj
+aW91cyBwcml2YXRlIGJhdGhyb29tDQotMTEgMCAwIDAgMCAwIDAgMCAwIDANCjMgMSAtMSAxIDAg
+MA0KRGVzaw0KLTExIDAgMCAwIDAgMCAwIDAgMCAwDQozIDEgLTEgMSAwIDANCkxhdW5kcnkgc2Vy
+dmljZQ0KLTExIDAgMCAwIDAgMCAwIDAgMCAwDQozIDEgLTEgMSAwIDANCk1pbmltYXJ0DQotMTEg
+MCAwIDAgMCAwIDAgMCAwIDANCjMgMSAtMSAxIDAgMA0KQ2xlYW5pbmcgc2VydmljZQ0KLTExIDAg
+MCAwIDAgMCAwIDAgMCAwDQozIDEgLTEgMSAwIDANCkNvZmZlZSBjb3JuZXINCi0xMSAwIDAgMCAw
+IDAgMCAwIDAgMA0KMyAxIC0xIDEgMCAwDQpGcmVlIEludGVybmF0aW9uYWwgQ2FibGUgVFYNCg==
+</rvf></Component><Component type="2" id="text3" zorder="7" filename="text3995406" left="345" top="411" width="278" height="258" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;UL style="margin-top:0px;margin-bottom:0px"&gt;
+&lt;li&gt;&lt;font style="font-size:19px;"&gt;Parking service&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font style="font-size:19px;"&gt;Safety deposit box&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font style="font-size:19px;"&gt;Restaurant&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font style="font-size:19px;"&gt;Wi-Fi Internet&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font style="font-size:19px;"&gt;Business center&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font style="font-size:19px;"&gt;24-hour security guard&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font style="font-size:19px;"&gt;International phone service&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font style="font-size:19px;"&gt;Tour services&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font style="font-size:19px;"&gt;Motorcycle rental&lt;/font&gt;&lt;/li&gt;
+&lt;/UL&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;UL&gt;
+&lt;li&gt;&lt;font class="ws14"&gt;Parking service&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font class="ws14"&gt;Safety deposit box&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font class="ws14"&gt;Restaurant&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font class="ws14"&gt;Wi-Fi Internet&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font class="ws14"&gt;Business center&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font class="ws14"&gt;24-hour security guard&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font class="ws14"&gt;International phone service&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font class="ws14"&gt;Tour services&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font class="ws14"&gt;Motorcycle rental&lt;/font&gt;&lt;/li&gt;
+&lt;/UL&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQriAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAg4AAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAO
+AQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2Vu
+dGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYL
+UmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVO
+YW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3Rl
+Y3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCoQA
+AAAOAQlTdHlsZU5hbWUGCkxpc3QgU3R5bGUIU3RhbmRhcmQIBkxldmVscw4BCkxlZnRJbmRlbnQC
+KAtGaXJzdEluZGVudAIADE1hcmtlckluZGVudAIYC0ZvbnQuSGVpZ2h0AvEJRm9udC5OYW1lBgZT
+eW1ib2wAAAVMc3RJRARtSop7AAAtMTEgMCAwIDAgMCAwIDAgMCAwIDANCjMgMSAtMSAxIDAgMA0K
+UGFya2luZyBzZXJ2aWNlDQotMTEgMCAwIDAgMCAwIDAgMCAwIDANCjMgMSAtMSAxIDAgMA0KU2Fm
+ZXR5IGRlcG9zaXQgYm94DQotMTEgMCAwIDAgMCAwIDAgMCAwIDANCjMgMSAtMSAxIDAgMA0KUmVz
+dGF1cmFudA0KLTExIDAgMCAwIDAgMCAwIDAgMCAwDQozIDEgLTEgMSAwIDANCldpLUZpIEludGVy
+bmV0DQotMTEgMCAwIDAgMCAwIDAgMCAwIDANCjMgMSAtMSAxIDAgMA0KQnVzaW5lc3MgY2VudGVy
+DQotMTEgMCAwIDAgMCAwIDAgMCAwIDANCjMgMSAtMSAxIDAgMA0KMjQtaG91ciBzZWN1cml0eSBn
+dWFyZA0KLTExIDAgMCAwIDAgMCAwIDAgMCAwDQozIDEgLTEgMSAwIDANCkludGVybmF0aW9uYWwg
+cGhvbmUgc2VydmljZQ0KLTExIDAgMCAwIDAgMCAwIDAgMCAwDQozIDEgLTEgMSAwIDANClRvdXIg
+c2VydmljZXMNCi0xMSAwIDAgMCAwIDAgMCAwIDAgMA0KMyAxIC0xIDEgMCAwDQpNb3RvcmN5Y2xl
+IHJlbnRhbA0K
+</rvf></Component><Component type="2" id="text4" zorder="8" filename="text4027906" left="796" top="57" width="204" height="498" html="Double click to edit text" bgcolor="#000000" fp="1" lp="1" backup="1"/><Component type="5" id="nav1" zorder="9" filename="nav4140421" fontname="Tahoma" fontsize="8" fontcolor="8421504" fontstyle="1" activecolor="536870911" navspace="5" navstyle="1" hormargin="0" vermargin="0" textalign="1" navwidth="180" navheight="31" normalimage="WSB://images\rect02in.gif" mouseoverimage="WSB://images\rect02over.gif" mouseoversound="" navtext0="HOME " navurl0="page://p128390" navtarget0="" navstate0="0" navtext1="LOCATION " navurl1="page://p1251531" navtarget1="" navstate1="0" navtext2="GUEST ROOM" navurl2="page://p1256796" navtarget2="" navstate2="0" navtext3="FACILITIES &amp; SERIVCES" navurl3="page://p1257609" navtarget3="" navstate3="0" navtext4="RESERVATION FORM" navurl4="page://p1258359" navtarget4="" navstate4="0" navtext5="CONTACT US" navurl5="page://p1258890" navtarget5="" navstate5="0" navcount="6" width="180" height="216" preview="C:\Users\COM-1\AppData\Local\Temp\Web Page Maker\doc1AVL6\NavIS6TO" left="806" top="185" fp="1" exportfilename="images/nav4140421" exportsound="" lp="1"/></body></page><page id="p1258359" pageindex="4" name="page5" pp="1" cp="1"><body backgroundcolor="#CC99FF" bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component type="2" id="text1" zorder="1" filename="text4570140" left="386" top="49" width="620" height="34" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Javanese Text" style="font-size:16px;background-color:#FFCC00;"&gt;|Reservation Form: Veerachai Court|&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Javanese Text" style="font-size:16px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Javanese Text" class="ws12" style="background-color:#FFCC00;"&gt;|Reservation Form: Veerachai Court|&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Javanese Text" class="ws12"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQo7AQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg1KYXZhbmVzZSBUZXh0BFNpemUCDAABCVN0eWxlTmFtZQYLTm9ybWFs
+IHRleHQIU3RhbmRhcmQICEZvbnROYW1lBg1KYXZhbmVzZSBUZXh0BFNpemUCDAlCYWNrQ29sb3IE
+/8wAAAAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRl
+cgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2
+YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9u
+cwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMA
+BFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4ANCAxIDEgMCAwIDANCnxSZXNlcnZh
+dGlvbiBGb3JtOiBWZWVyYWNoYWkgQ291cnR8DQozIDEgMSAwIDAgMA0KDQo=
+</rvf></Component><Component type="9" id="hr1" zorder="2" filename="hr4605187" hrsize="1" width="910" height="11" left="260" top="98" bgcolor="#000000" hrcolor="#000000" noshade="" usimage="0" src="" previewfile="" fp="1" lp="1"/><Component type="2" id="text2" zorder="3" filename="text4631421" left="343" top="110" width="227" height="28" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Javanese Text" style="font-size:16px;"&gt;Booking Details &lt;/font&gt;&lt;font face="Javanese Text" style="font-size:12px;"&gt;(&lt;/font&gt;&lt;font face="Javanese Text" style="font-size:16px;"&gt;*Required&lt;/font&gt;&lt;font face="Javanese Text" style="font-size:12px;"&gt;)&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Javanese Text" class="ws12"&gt;Booking Details &lt;/font&gt;&lt;font face="Javanese Text" class="ws9"&gt;(&lt;/font&gt;&lt;font face="Javanese Text" class="ws12"&gt;*Required&lt;/font&gt;&lt;font face="Javanese Text" class="ws9"&gt;)&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQosAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg1KYXZhbmVzZSBUZXh0BFNpemUCDAABCVN0eWxlTmFtZQYLTm9ybWFs
+IHRleHQIU3RhbmRhcmQICEZvbnROYW1lBg1KYXZhbmVzZSBUZXh0BFNpemUCCQAALTkgMiAwIDAg
+MiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4A
+AAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFi
+cw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnML
+AARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25s
+eRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAAALTkgMiAw
+IDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDAgMCAwIDANCkJvb2tpbmcgRGV0YWlscyANCjQgMSAt
+MSAxIDAgMA0KKA0KMyAxIC0xIDEgMCAwDQoqUmVxdWlyZWQNCjQgMSAtMSAxIDAgMA0KKQ0K
+</rvf></Component><Component type="2" id="text3" zorder="4" filename="text4697156" left="354" top="166" width="107" height="26" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:15px;"&gt;*Check In Date&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws11"&gt;*Check In Date&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQriAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAgsAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAO
+AQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2Vu
+dGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYL
+UmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVO
+YW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3Rl
+Y3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIA
+AAAOADMgMSAwIDAgMCAwDQoqQ2hlY2sgSW4gRGF0ZQ0K
+</rvf></Component><Component type="2" id="text4" zorder="5" filename="text4709828" left="340" top="199" width="112" height="25" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:15px;"&gt;*Check Out Date&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style="font-size:15px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws11"&gt;*Check Out Date&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class="ws11"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQriAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAgsAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAO
+AQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2Vu
+dGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYL
+UmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVO
+YW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3Rl
+Y3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIA
+AAAOADMgMiAwIDAgMCAwDQoqQ2hlY2sgT3V0IERhdGUNCg0K
+</rvf></Component><Component type="2" id="text5" zorder="6" filename="text4726562" left="363" top="225" width="91" height="26" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:15px;"&gt;Types of Bed &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style="font-size:15px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws11"&gt;Types of Bed &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class="ws11"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQriAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAgsAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAO
+AQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2Vu
+dGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYL
+UmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVO
+YW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3Rl
+Y3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIA
+AAAOADMgMiAwIDAgMCAwDQpUeXBlcyBvZiBCZWQgDQoNCg==
+</rvf></Component><Component type="2" id="text6" zorder="7" filename="text4742656" left="298" top="254" width="151" height="24" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:15px;"&gt;Extra Bed Request&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style="font-size:15px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws11"&gt;Extra Bed Request&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class="ws11"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQriAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAgsAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAO
+AQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2Vu
+dGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYL
+UmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVO
+YW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3Rl
+Y3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIA
+AAAOADMgMiAwIDAgMCAwDQpFeHRyYSBCZWQgUmVxdWVzdA0KDQo=
+</rvf></Component><Component type="2" id="text7" zorder="8" filename="text4758671" left="326" top="280" width="123" height="25" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:15px;"&gt;Number of Rooms&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style="font-size:15px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws11"&gt;Number of Rooms&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class="ws11"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQriAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAgsAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAO
+AQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2Vu
+dGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYL
+UmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVO
+YW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3Rl
+Y3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIA
+AAAOADMgMiAwIDAgMCAwDQpOdW1iZXIgb2YgUm9vbXMNCg0K
+</rvf></Component><Component type="2" id="text8" zorder="9" filename="text4783656" left="275" top="310" width="174" height="29" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:15px;"&gt;Number of People in Party &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style="font-size:15px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws11"&gt;Number of People in Party &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class="ws11"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQriAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAgsAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAO
+AQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2Vu
+dGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYL
+UmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVO
+YW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3Rl
+Y3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIA
+AAAOADMgMiAwIDAgMCAwDQpOdW1iZXIgb2YgUGVvcGxlIGluIFBhcnR5IA0KDQo=
+</rvf></Component><Component type="2" id="text9" zorder="10" filename="text4805828" left="330" top="338" width="118" height="25" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:15px;"&gt;Number of Nights &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style="font-size:15px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws11"&gt;Number of Nights &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class="ws11"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQriAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAgsAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAO
+AQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2Vu
+dGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYL
+UmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVO
+YW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3Rl
+Y3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIA
+AAAOADMgMiAwIDAgMCAwDQpOdW1iZXIgb2YgTmlnaHRzIA0KDQo=
+</rvf></Component><Component type="2" id="text10" zorder="11" filename="text4825453" left="310" top="370" width="140" height="21" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:15px;"&gt;Other Requirements&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style="font-size:15px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws11"&gt;Other Requirements&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class="ws11"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQriAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAgsAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAO
+AQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2Vu
+dGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYL
+UmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVO
+YW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3Rl
+Y3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIA
+AAAOADMgMiAwIDAgMCAwDQpPdGhlciBSZXF1aXJlbWVudHMNCg0K
+</rvf></Component><Component type="14" id="formselect1" zorder="12" filename="form4875218" formtype="9" formname="formselect1" width="60" height="25" left="472" top="165" options="1=1
+2=2
+3=3
+4=4
+5=5
+6=6
+7=7
+8=8
+9=9
+10=10
+11=11
+12=12
+13=13
+14=14
+15=15
+16=16
+17=17
+18=18
+19=19
+20=20
+21=21
+22=22
+23=23
+24=24
+25=25
+26=26
+27=27
+28=28
+29=29
+30=30
+31=31
+" fp="1" lp="1"/><Component type="14" id="formselect2" zorder="13" filename="form4893703" formtype="9" formname="formselect2" width="121" height="24" left="545" top="165" options="January=January
+February=February
+March=March
+April=April
+May=May
+June=June
+July=July
+August=August
+September=September
+October=October
+November=November
+December=December
+" fp="1" lp="1"/><Component type="14" id="formselect3" zorder="14" filename="form4911437" formtype="9" formname="formselect3" width="98" height="25" left="681" top="165" options="2024=2024
+2025=2025
+2026=2026
+2027=2027
+2028=2028
+2029=2029
+2030=2030
+" fp="1" lp="1"/><Component type="14" id="formselect4" zorder="15" filename="form4936093" formtype="9" formname="formselect4" width="60" height="25" left="471" top="197" options="1=1
+2=2
+3=3
+4=4
+5=5
+6=6
+7=7
+8=8
+9=9
+10=10
+11=11
+12=12
+13=13
+14=14
+15=15
+16=16
+17=17
+18=18
+19=19
+20=20
+21=21
+22=22
+23=23
+24=24
+25=25
+26=26
+27=27
+28=28
+29=29
+30=30
+31=31
+" fp="1" lp="1"/><Component type="14" id="formselect5" zorder="16" filename="form4949640" formtype="9" formname="formselect5" width="121" height="24" left="545" top="198" options="January=January
+February=February
+March=March
+April=April
+May=May
+June=June
+July=July
+August=August
+September=September
+October=October
+November=November
+December=December
+" fp="1" lp="1"/><Component type="14" id="formselect6" zorder="17" filename="form4966734" formtype="9" formname="formselect6" width="98" height="25" left="681" top="198" options="2024=2024
+2025=2025
+2026=2026
+2027=2027
+2028=2028
+2029=2029
+2030=2030
+" fp="1" lp="1"/><Component type="14" id="formselect7" zorder="18" filename="form4986687" formtype="9" formname="formselect7" width="104" height="23" left="471" top="226" options="Single=Single
+Double=Double
+" fp="1" lp="1"/><Component type="14" id="formselect8" zorder="19" filename="form5003031" formtype="9" formname="formselect8" width="78" height="23" left="471" top="252" options="Yes=Yes
+No=No
+" fp="1" lp="1"/><Component type="14" id="formtext1" zorder="20" filename="form5032968" formtype="3" formname="formtext1" parentform="form1" parentformname="RESERVATION FORM" width="200" height="25" left="471" top="279" fp="1" lp="1"/><Component type="14" id="formtext2" zorder="21" filename="form5044593" formtype="3" formname="formtext2" parentform="form1" parentformname="RESERVATION FORM" width="200" height="25" left="471" top="307" fp="1" lp="1"/><Component type="14" id="formtext3" zorder="22" filename="form5056640" formtype="3" formname="formtext3" parentform="form1" parentformname="RESERVATION FORM" width="200" height="22" left="470" top="335" fp="1" lp="1"/><Component type="14" id="textarea1" zorder="23" filename="form5091156" formtype="4" formname="textarea1" parentform="form1" parentformname="RESERVATION FORM" width="200" height="125" left="468" top="364" fp="1" lp="1"/><Component type="9" id="hr3" zorder="24" filename="hr5109046" hrsize="1" width="728" height="10" left="335" top="528" bgcolor="#000000" hrcolor="#000000" noshade="" usimage="0" src="" previewfile="" fp="1" lp="1"/><Component type="2" id="text11" zorder="25" filename="text5131250" left="343" top="541" width="209" height="24" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:15px;"&gt;Personal Details (* Required )&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws11"&gt;Personal Details (* Required )&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQriAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAgsAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAO
+AQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2Vu
+dGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYL
+UmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVO
+YW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3Rl
+Y3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIA
+AAAOADMgMSAwIDAgMCAwDQpQZXJzb25hbCBEZXRhaWxzICgqIFJlcXVpcmVkICkNCg==
+</rvf></Component><Component type="9" id="hr4" zorder="26" filename="hr5152281" hrsize="1" width="728" height="11" left="336" top="565" bgcolor="#000000" hrcolor="#000000" noshade="" usimage="0" src="" previewfile="" fp="1" lp="1"/><Component type="2" id="text12" zorder="27" filename="text5201703" left="320" top="597" width="178" newhtml="1" htmlcode="" html="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" height="384" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=right&gt;&lt;font style="font-size:19px;"&gt;*First Name &lt;/font&gt;&lt;/div&gt;
+&lt;div align=right&gt;&lt;font style="font-size:15px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=right&gt;&lt;font style="font-size:19px;"&gt;* Address &lt;/font&gt;&lt;/div&gt;
+&lt;div align=right&gt;&lt;font style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=right&gt;&lt;font style="font-size:19px;"&gt;City &lt;/font&gt;&lt;/div&gt;
+&lt;div align=right&gt;&lt;font style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=right&gt;&lt;font style="font-size:19px;"&gt;State / Province &lt;/font&gt;&lt;/div&gt;
+&lt;div align=right&gt;&lt;font style="font-size:19px;"&gt;&amp;nbsp; &lt;/font&gt;&lt;/div&gt;
+&lt;div align=right&gt;&lt;font style="font-size:19px;"&gt;Country &lt;/font&gt;&lt;/div&gt;
+&lt;div align=right&gt;&lt;font style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=right&gt;&lt;font style="font-size:19px;"&gt;* E-mail &lt;/font&gt;&lt;/div&gt;
+&lt;div align=right&gt;&lt;font style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=right&gt;&lt;font style="font-size:19px;"&gt;Confirm Your E-mail &lt;/font&gt;&lt;/div&gt;
+&lt;div align=right&gt;&lt;font style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=right&gt;&lt;font style="font-size:19px;"&gt;Telephone Number &lt;/font&gt;&lt;/div&gt;
+&lt;div align=right&gt;&lt;font style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style="font-size:19px;"&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=right&gt;&lt;font class="ws14"&gt;*First Name &lt;/font&gt;&lt;/div&gt;
+&lt;div align=right&gt;&lt;font class="ws11"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=right&gt;&lt;font class="ws14"&gt;* Address &lt;/font&gt;&lt;/div&gt;
+&lt;div align=right&gt;&lt;font class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=right&gt;&lt;font class="ws14"&gt;City &lt;/font&gt;&lt;/div&gt;
+&lt;div align=right&gt;&lt;font class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=right&gt;&lt;font class="ws14"&gt;State / Province &lt;/font&gt;&lt;/div&gt;
+&lt;div align=right&gt;&lt;font class="ws14"&gt;&amp;nbsp; &lt;/font&gt;&lt;/div&gt;
+&lt;div align=right&gt;&lt;font class="ws14"&gt;Country &lt;/font&gt;&lt;/div&gt;
+&lt;div align=right&gt;&lt;font class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=right&gt;&lt;font class="ws14"&gt;* E-mail &lt;/font&gt;&lt;/div&gt;
+&lt;div align=right&gt;&lt;font class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=right&gt;&lt;font class="ws14"&gt;Confirm Your E-mail &lt;/font&gt;&lt;/div&gt;
+&lt;div align=right&gt;&lt;font class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=right&gt;&lt;font class="ws14"&gt;Telephone Number &lt;/font&gt;&lt;/div&gt;
+&lt;div align=right&gt;&lt;font class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class="ws14"&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQocAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAg4AAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0
+YW5kYXJkCAhGb250TmFtZQYFQXJpYWwEU2l6ZQILAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAA
+DgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENl
+bnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUG
+C1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxl
+TmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90
+ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoC
+AAAADgAzIDEgMiAwIDAgMA0KKkZpcnN0IE5hbWUgDQo0IDEgMiAwIDAgMA0KDQozIDE0IDIgMCAw
+IDANCiogQWRkcmVzcyANCg0KQ2l0eSANCg0KU3RhdGUgLyBQcm92aW5jZSANCiAgDQpDb3VudHJ5
+IA0KDQoqIEUtbWFpbCANCg0KQ29uZmlybSBZb3VyIEUtbWFpbCANCg0KVGVsZXBob25lIE51bWJl
+ciANCg0KMyAxIDAgMCAwIDANCiANCg==
+</rvf></Component><Component type="14" id="formselect9" zorder="28" filename="form5371109" formtype="9" width="88" height="25" left="509" top="601" options="Mr.=Mr.
+Mrs.=Mrs.
+Ms=Ms
+Khun=Khun
+Dr.=Dr.
+Prof.=Prof.
+Sir.=Sir.
+Lady=Lady
+" formname="formselect9" fp="1" lp="1"/><Component type="14" id="formtext4" zorder="29" filename="form5386296" formtype="3" width="175" height="24" left="609" top="600" formvalue="" maxlength="0" inputtype="0" formname="formtext4" fp="1" lp="1"/><Component type="2" id="text13" zorder="30" filename="text5399500" left="813" top="597" width="78" height="26" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:15px;"&gt;Last Name&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style="font-size:15px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws11"&gt;Last Name&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class="ws11"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQriAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAgsAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAO
+AQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2Vu
+dGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYL
+UmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVO
+YW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3Rl
+Y3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIA
+AAAOADMgMiAwIDAgMCAwDQpMYXN0IE5hbWUNCg0K
+</rvf></Component><Component type="14" id="formtext5" zorder="31" filename="form5425218" formtype="3" width="175" height="24" left="893" top="597" formvalue="" maxlength="0" inputtype="0" formname="formtext5" fp="1" lp="1"/><Component type="14" id="formtext6" zorder="32" filename="form5491421" formtype="3" formname="formtext6" parentform="form1" parentformname="RESERVATION FORM" width="555" height="25" left="509" top="637" fp="1" lp="1"/><Component type="14" id="formtext7" zorder="33" filename="form5515718" formtype="3" formname="formtext7" parentform="form1" parentformname="RESERVATION FORM" width="377" height="25" left="509" top="682" fp="1" lp="1"/><Component type="14" id="formtext8" zorder="34" filename="form5538640" formtype="3" formname="formtext8" parentform="form1" parentformname="RESERVATION FORM" width="377" height="25" left="509" top="725" fp="1" lp="1"/><Component type="14" id="formselect10" zorder="35" filename="form5561937" formtype="9" formname="formselect10" parentform="form1" parentformname="RESERVATION FORM" width="200" height="25" left="509" top="769" fp="1" lp="1"/><Component type="14" id="formtext9" zorder="36" filename="form5583625" formtype="3" width="329" height="24" left="509" top="812" formvalue="" maxlength="0" inputtype="0" formname="formtext9" fp="1" lp="1"/><Component type="14" id="formtext10" zorder="37" filename="form5596718" formtype="3" width="329" height="26" left="509" top="858" formvalue="" maxlength="0" inputtype="0" formname="formtext10" fp="1" lp="1"/><Component type="14" id="formtext11" zorder="38" filename="form5613843" formtype="3" width="329" height="26" left="509" top="902" formvalue="" maxlength="0" inputtype="0" formname="formtext11" fp="1" lp="1"/><Component type="2" id="text14" zorder="39" filename="text5655484" left="933" top="725" width="105" height="25" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:15px;"&gt;Postal Code&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style="font-size:15px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws11"&gt;Postal Code&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class="ws11"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQriAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAgsAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAO
+AQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2Vu
+dGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYL
+UmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVO
+YW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3Rl
+Y3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIA
+AAAOADMgMiAwIDAgMCAwDQpQb3N0YWwgQ29kZQ0KDQo=
+</rvf></Component><Component type="14" id="formtext12" zorder="40" filename="form5678015" formtype="3" width="132" height="24" left="1021" top="725" formvalue="" maxlength="0" inputtype="0" formname="formtext12" fp="1" lp="1"/><Component type="14" id="formtext13" zorder="41" filename="form5689640" formtype="3" width="132" height="24" left="1027" top="902" formvalue="" maxlength="0" inputtype="0" formname="formtext13" fp="1" lp="1"/><Component type="2" id="text15" zorder="42" filename="text5707984" left="979" top="903" width="38" height="22" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:15px;"&gt;Fax &lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws11"&gt;Fax &lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQriAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAgsAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAO
+AQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2Vu
+dGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYL
+UmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVO
+YW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3Rl
+Y3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIA
+AAAOADMgMSAwIDAgMCAwDQpGYXggDQo=
+</rvf></Component><Component type="9" id="hr5" zorder="43" filename="hr5731484" hrsize="1" width="728" height="10" left="336" top="963" bgcolor="#000000" hrcolor="#000000" noshade="" usimage="0" src="" previewfile="" fp="1" lp="1"/><Component type="9" id="hr6" zorder="44" filename="hr5781687" hrsize="1" width="728" height="10" left="336" top="1001" bgcolor="#000000" hrcolor="#000000" noshade="" usimage="0" src="" previewfile="" fp="1" lp="1"/><Component type="2" id="text16" zorder="45" filename="text5814875" left="350" top="975" width="413" height="23" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:15px;"&gt;Type the number you see on the image below ( * Required )&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws11"&gt;Type the number you see on the image below ( * Required )&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQriAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAgsAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAO
+AQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2Vu
+dGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYL
+UmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVO
+YW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3Rl
+Y3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIA
+AAAOADMgMSAwIDAgMCAwDQpUeXBlIHRoZSBudW1iZXIgeW91IHNlZSBvbiB0aGUgaW1hZ2UgYmVs
+b3cgKCAqIFJlcXVpcmVkICkNCg==
+</rvf></Component><Component type="2" id="text17" zorder="46" filename="text5836406" left="392" top="1040" width="22" height="24" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:15px;"&gt;*&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style="font-size:15px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws11"&gt;*&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class="ws11"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQriAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAgsAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAO
+AQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2Vu
+dGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYL
+UmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVO
+YW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3Rl
+Y3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIA
+AAAOADMgMiAwIDAgMCAwDQoqDQoNCg==
+</rvf></Component><Component type="14" id="formtext14" zorder="47" filename="form5856890" formtype="3" width="131" height="23" left="401" top="1038" formvalue="" maxlength="0" inputtype="0" formname="formtext14" fp="1" lp="1"/><Component type="2" id="text18" zorder="48" filename="text5887937" left="700" top="1039" width="95" height="26" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:15px;"&gt;Example:&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws11"&gt;Example:&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQriAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAgsAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAO
+AQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2Vu
+dGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYL
+UmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVO
+YW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3Rl
+Y3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIA
+AAAOADMgMSAwIDAgMCAwDQpFeGFtcGxlOg0K
+</rvf></Component><Component type="3" id="image1" zorder="49" filename="image5973390" left="770" top="1037" width="167" height="85" originwidth="167" originheight="85" src="WSB://images\secure_code_ex.jpg" previewfile="WSB://images\secure_code_ex.jpg" thumbname="thumb7505703" resamplename="img7505718" exportfilename="images/secure_code_ex.jpg" fp="1" lp="1"/><Component type="3" id="image2" zorder="50" filename="image5986468" left="414" top="1075" width="100" height="40" originwidth="100" originheight="40" src="WSB://images\gd.jpg" previewfile="WSB://images\gd.jpg" thumbname="thumb7505750" resamplename="img7505765" exportfilename="images/gd.jpg" fp="1" lp="1"/><Component type="14" id="formbutton1" zorder="51" filename="form6005125" formtype="2" formname="formbutton1" buttontype="1" width="120" height="25" left="509" top="1176" formvalue="Submit Form" fp="1" lp="1"/><Component type="14" id="formbutton2" zorder="52" filename="form6017359" formtype="2" formname="formbutton2" buttontype="2" width="120" height="25" left="637" top="1177" formvalue="Reset Form" fp="1" lp="1"/><Component type="4" id="shape1" zorder="0" filename="shape6083578" width="908" height="1192" bgcolor="#FFFFFF" previewfile="C:\Users\COM-1\AppData\Local\Temp\Web Page Maker\doc1AVL6\shape81VBS.gif" left="261" top="37" spborder="0" borderstyle="0" bordercolor="#808080" borderwidth="1" fillstyle="0" fp="1" exportfilename="images/shape6083578.gif" lp="1"/><Component type="9" id="hr2" zorder="53" filename="hr6199000" hrsize="1" width="910" height="16" left="259" top="136" bgcolor="#000000" hrcolor="#000000" noshade="" usimage="0" src="" previewfile="" fp="1" lp="1"/><Component type="9" id="hr7" zorder="54" filename="hr6221437" hrsize="1" width="910" height="11" left="260" top="527" bgcolor="#000000" hrcolor="#000000" noshade="" usimage="0" src="" previewfile="" fp="1" lp="1"/><Component type="9" id="hr8" zorder="55" filename="hr6238140" hrsize="1" width="910" height="11" left="259" top="565" bgcolor="#000000" hrcolor="#000000" noshade="" usimage="0" src="" previewfile="" fp="1" lp="1"/><Component type="9" id="hr9" zorder="56" filename="hr6246453" hrsize="1" width="910" height="11" left="260" top="963" bgcolor="#000000" hrcolor="#000000" noshade="" usimage="0" src="" previewfile="" fp="1" lp="1"/><Component type="9" id="hr10" zorder="57" filename="hr6254218" hrsize="1" width="910" height="11" left="260" top="1001" bgcolor="#000000" hrcolor="#000000" noshade="" usimage="0" src="" previewfile="" fp="1" lp="1"/><Component type="5" id="nav1" zorder="58" filename="nav6969484" fontname="Tahoma" fontsize="10" fontcolor="8421504" fontstyle="1" activecolor="536870911" navspace="5" navstyle="1" hormargin="0" vermargin="0" textalign="1" navwidth="180" navheight="31" normalimage="WSB://images\rect02in.gif" mouseoverimage="WSB://images\rect02over.gif" mouseoversound="" navtext0="HOME " navurl0="page://p128390" navtarget0="" navstate0="0" navtext1="LOCATION" navurl1="page://p1251531" navtarget1="" navstate1="0" navtext2="GUEST ROOM" navurl2="page://p1256796" navtarget2="" navstate2="0" navtext3="FACILITIES &amp; SERVICES " navurl3="page://p1257609" navtarget3="" navstate3="0" navtext4="RESERVATION FORM" navurl4="page://p1258359" navtarget4="" navstate4="0" navtext5="CONTACT US" navurl5="page://p1258890" navtarget5="" navstate5="0" navcount="6" width="180" height="216" preview="C:\Users\COM-1\AppData\Local\Temp\Web Page Maker\doc1AVL6\Nav8KO8I" left="26" top="112" exportfilename="images/nav6969484" exportsound="" fp="1" lp="1"/></body></page><page id="p1258890" pageindex="5" name="page6" pp="1" cp="1"><body backgroundcolor="#99CCFF" bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component type="2" id="text1" zorder="0" filename="text6421953" left="601" top="37" width="273" height="81" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font style="font-size:19px;"&gt;&lt;B&gt;CONTACT US &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font class="ws14"&gt;&lt;B&gt;CONTACT US &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrxAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAg4FU3R5bGULBmZzQm9sZAAAAC05IDIgMCAwIDIg
+MCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAAB
+CVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMO
+AAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAE
+VGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkR
+cnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAw
+IDIgMCA0DQpydnMNCgIAAAAOADMgMSAxIDAgMCAwDQpDT05UQUNUIFVTIA0K
+</rvf></Component><Component type="2" id="text2" zorder="1" filename="text6477375" left="477" top="327" width="547" height="244" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font style="font-size:19px;"&gt;&lt;B&gt;Veerachai Court, Chiang Mai&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font style="font-size:19px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 19 Thapae Rd.,Soi 2, Muang, Chiang Mai 50300&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font style="font-size:19px;"&gt;Tel.+66 (0) 5325 1047 to 54 Fax.+66 (0) 5325 2402&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font style="font-size:19px;"&gt;e-mail : &lt;/font&gt;&lt;font color="#0000FF" style="font-size:19px;"&gt;veerachaicourt@yahoo.com&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font style="font-size:19px;"&gt;web site :&lt;/font&gt;&lt;font color="#3366FF" style="font-size:19px;"&gt; &lt;/font&gt;&lt;font color="#0000FF" style="font-size:19px;"&gt;www.veerachaicourt.com&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#3366FF" style="font-size:19px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font class="ws14"&gt;&lt;B&gt;Veerachai Court, Chiang Mai&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font class="ws14"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 19 Thapae Rd.,Soi 2, Muang, Chiang Mai 50300&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font class="ws14"&gt;Tel.+66 (0) 5325 1047 to 54 Fax.+66 (0) 5325 2402&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font class="ws14"&gt;e-mail : &lt;/font&gt;&lt;font color="#0000FF" class="ws14"&gt;veerachaicourt@yahoo.com&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font class="ws14"&gt;web site :&lt;/font&gt;&lt;font color="#3366FF" class="ws14"&gt; &lt;/font&gt;&lt;font color="#0000FF" class="ws14"&gt;www.veerachaicourt.com&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#3366FF" class="ws14"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQq4AQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAg4AAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0
+YW5kYXJkCAhGb250TmFtZQYFQXJpYWwEU2l6ZQIOBVN0eWxlCwZmc0JvbGQAAAEJU3R5bGVOYW1l
+BgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGBUFyaWFsBFNpemUCDgVDb2xvcgcGY2xC
+bHVlAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGBUFyaWFsBFNp
+emUCDgVDb2xvcgQzZv8AAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpM
+ZWZ0IEFsaWduB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVu
+dAcJcnZhQ2VudGVyB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFs
+aWdubWVudAcIcnZhUmlnaHQHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBU
+YWJsZQdPcHRpb25zCw1ydnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RX
+YW50UmV0dXJucwAEVGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgA0IDEgMSAwIDAg
+MA0KVmVlcmFjaGFpIENvdXJ0LCBDaGlhbmcgTWFpDQozIDMgMSAwIDAgMA0KICAgICAxOSBUaGFw
+YWUgUmQuLFNvaSAyLCBNdWFuZywgQ2hpYW5nIE1haSA1MDMwMA0KVGVsLis2NiAoMCkgNTMyNSAx
+MDQ3IHRvIDU0IEZheC4rNjYgKDApIDUzMjUgMjQwMg0KZS1tYWlsIDogDQo1IDEgLTEgMSAwIDAN
+CnZlZXJhY2hhaWNvdXJ0QHlhaG9vLmNvbQ0KMyAxIDEgMCAwIDANCndlYiBzaXRlIDoNCjYgMSAt
+MSAxIDAgMA0KIA0KNSAxIC0xIDEgMCAwDQp3d3cudmVlcmFjaGFpY291cnQuY29tDQo2IDEgMSAw
+IDAgMA0KICAgICAgDQo=
+</rvf></Component><Component type="3" id="image1" zorder="2" filename="image6554421" left="507" top="118" width="250" height="150" originwidth="250" originheight="150" src="WSB://images\14.jpg" previewfile="WSB://images\14.jpg" thumbname="thumb7505812" resamplename="img7505828" exportfilename="images/14.jpg" fp="1" lp="1"/><Component type="3" id="image2" zorder="3" filename="image6560281" left="868" top="123" width="159" height="150" originwidth="159" originheight="150" src="WSB://images\15.jpg" previewfile="WSB://images\15.jpg" thumbname="thumb7505859" resamplename="img7505875" exportfilename="images/15.jpg" fp="1" lp="1"/><Component type="2" id="text3" zorder="4" filename="text6595468" left="46" top="93" width="272" height="443" html="Double click to edit text" bgcolor="#008080" fp="1" lp="1" backup="1"/><Component type="5" id="nav1" zorder="5" filename="nav6692078" fontname="Tahoma" fontsize="10" fontcolor="8421504" fontstyle="1" activecolor="536870911" navspace="5" navstyle="1" hormargin="0" vermargin="0" textalign="1" navwidth="180" navheight="31" normalimage="WSB://images\rect02in.gif" mouseoverimage="WSB://images\rect02over.gif" mouseoversound="" navtext0="HOME " navurl0="page://p128390" navtarget0="" navstate0="0" navtext1="LOCATION" navurl1="page://p1251531" navtarget1="" navstate1="0" navtext2="GUEST ROOMS" navurl2="page://p1256796" navtarget2="" navstate2="0" navtext3="FACILITIES &amp; SERVICES" navurl3="page://p1257609" navtarget3="" navstate3="0" navtext4="RESERVATION FORM" navurl4="page://p1258359" navtarget4="" navstate4="0" navtext5="CONTACT US" navurl5="page://p1258890" navtarget5="" navstate5="0" navcount="6" width="180" height="216" preview="C:\Users\COM-1\AppData\Local\Temp\Web Page Maker\doc1AVL6\NavVFP74" left="85" top="195" fp="1" exportfilename="images/nav6692078" exportsound="" lp="1"/></body></page></site>
